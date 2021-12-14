@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kushagra Ranjan</h1>
 <h3 align="center">A 3rd year MCA Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=2478&label=Profile%20views&color=0e75b6&style=flat" alt="2478" /> </p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kushmahi21/count.svg" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
